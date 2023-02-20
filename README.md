@@ -1,8 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=false&width=650&height=50&lines=Welcome+to+my+Github+Page!;I'm+Ben+Asulin+:D)](https://git.io/typing-svg)
+<p align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=50&width=1000&height=100&lines=Welcome+to+my+Github+Page!;I'm+Ben+Asulin+:D)](https://git.io/typing-svg)
+  
+</p>
 
-
-![banner](https://user-images.githubusercontent.com/65775948/178121332-5598ad12-b184-4468-812a-4e50239fb46e.png)
-
+<p align="center">
+  <img src="https://quintagroup.com/services/devops/devops.jpg" alt="Alt Text" height="500">
+</p>
+  
 
 - 👋 Hi, My name is Ben
 - 👀 I’m interested in Hardware technologies and DevOps and im looking for my next challenge.
