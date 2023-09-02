@@ -2,7 +2,7 @@
   
 
 <p align="center">
-  <img src="https://quintagroup.com/services/devops/devops.jpg" alt="Alt Text" height="500">
+  <img src="my-technologies.png" alt="Alt Text" height="500">
 </p>
   
 
